@@ -1,6 +1,6 @@
 {
   "name": "@vishnu0624/gitignore",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "get gitignore from api.github.com for type/types and create/appened in gitignore file in your project",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
