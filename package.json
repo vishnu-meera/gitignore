@@ -1,6 +1,6 @@
 {
   "name": "@vishnu0624/gitignore",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "get gitignore from api.github.com for type/types and create/appened in gitignore file in your project",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "bin": {
-      "getignore": "./bin/index.js"
+    "getignore": "./bin/index.js"
   },
   "keywords": [
     "git",
@@ -21,5 +21,8 @@
     "create-gitignore"
   ],
   "author": "vishnu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
 }
