@@ -11,4 +11,4 @@ const createGithubusercontentUrl = (type) => {
 }
 
 
-console.log(createGithubusercontentUrl(convertCase("nODE")))
+exports.convertCase = convertCase
