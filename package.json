@@ -1,0 +1,11 @@
+{
+  "name": "gitignore",
+  "version": "0.1.0",
+  "description": "get gitignore from api.github.com for type/types and create/appened in gitignore file in your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishnu",
+  "license": "ISC"
+}
